@@ -1,1 +1,6 @@
+openai==3.40.0
+pydub==0.25.1
+pypdf==6.21.4
 python-dotenv==1.2.4
+requests==2.34.2
+trafilatura==2.3.1
